@@ -140,7 +140,7 @@ npm run dev
 ---
 ## 🌐 Live Demo
 
-Add your deployed project link (Netlify / Vercel)
+https://myyfintrack.netlify.app
 
 ## 🤝 Contributing
 
